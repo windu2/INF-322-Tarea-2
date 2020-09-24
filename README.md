@@ -16,3 +16,21 @@
 
 3. Similitud entre el sistema y el mundo real \\
 - (+) Muestra el álbum resultante con una animación 3d que recrea cómo se vería en persona.
+
+
+4. Control de usuario y libertad
+- (+) Botones de deshacer y rehacer en la barra inferior (1:42)
+- (-) Se despliega un pop-up ofreciendo un tutorial al usuario (1:30)
+
+5. Reconocimiento más que recuerdo
+
+- (+) Mostrar la imagen antes que el nombre de los archivos en la esquina superior izquierda, para elegir el archivo/foto que se ocupará (1:36)
+
+6. Prevención del error
+- (+) Muestra una línea para que el usuario alinee las imágenes de mejor forma (3:14)
+- (-) No muestra qué error está cometiendo al colocar el símbolo de advertencia sobre la imagen (1:45)
+
+7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
+- (+) Muestra un símbolo si la imagen está incorrecta (1:44)
+- (-) No menciona el error que está cometiendo el usuario, solo muestra un símbolo de advertencia y no ofrece ayuda ni da información del error.
+
