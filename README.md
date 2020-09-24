@@ -31,12 +31,15 @@
 7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
 - (+) Muestra un símbolo si la imagen está incorrecta (1:44)
 - (-) No menciona el error que está cometiendo el usuario, solo muestra un símbolo de advertencia y no ofrece ayuda ni da información del error.
-8.
+
+8. Flexibilidad y eficiencia de uso
 - (+) Al editar un texto saltan opciones de edición más cercanas para ayudarlo a encontrar más rápido las funcionalidades
 - (-) Al ocurrir un error en la edición del álbum, no le ofrece al usuario ayuda a resolver el error ni tampoco explica por qué ocurre.
-9.
+
+9. Diseño estético y minimalista
 - (+) Muestra únicamente al álbum para visualizar (3:59)
 - (-) Muestra demasiada información en pantalla al iniciar la aplicación; abruma al usuario con 13 páginas de tutorial para usar el software. De hecho, lo cierra instantáneamente. (1:30)
-10.
+
+10. Ayuda y documentación
 - (+) En la bienvenida del editor, ofrece al usuario un “tour” de 13 pasos por las distintas herramientas de la aplicación.
 - (-) En caso de necesitar ayuda, el usuario no puede reabrir el tour.
